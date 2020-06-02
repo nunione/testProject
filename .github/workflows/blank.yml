@@ -31,5 +31,6 @@ jobs:
       run: |
         pwd
         ls -al
+        curl https://www.naver.com
         echo Add other actions to build,
         echo test, and deploy your project.
